@@ -76,7 +76,7 @@ class _InformationsPersonnellesPageState
       final response = await http.post(
 
         Uri.parse(
-            "https://remedial-computer-parking.ngrok-free.dev/api/make-premium"
+            "https://talentbook-api.onrender.com/api/make-premium"
         ),
 
         headers:{

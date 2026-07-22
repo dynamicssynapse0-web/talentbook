@@ -120,7 +120,7 @@ class _NotificationsPageState
       final response =
       await http.post(
           Uri.parse(
-              "https://remedial-computer-parking.ngrok-free.dev/api/reactivate-profile"
+              "https://talentbook-api.onrender.com/api/reactivate-profile"
           ),
           headers:{
 
@@ -234,7 +234,7 @@ class _NotificationsPageState
 
         Uri.parse(
 
-            "https://remedial-computer-parking.ngrok-free.dev/api/reactivate-profile"
+            "https://talentbook-api.onrender.com/api/reactivate-profile"
 
         ),
 
